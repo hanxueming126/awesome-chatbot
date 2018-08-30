@@ -2069,7 +2069,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd6ff;
+  background: #d0d4ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2956,7 +2956,7 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/blogbk.jpg") no-repeat;
+  background: url("/awesome-chatbot/images/blogbk.jpg") no-repeat;
 /* 背景图垂直、水平均居中 */
   background-position: center center;
 /* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
@@ -2972,7 +2972,7 @@ body {
   background: rgba(255,255,255,0.8) none repeat scroll !important;
 }
 #sidebar {
-  background: url("/images/sidebar.jpg");
+  background: url("/awesome-chatbot/images/sidebar.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
